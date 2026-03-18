@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+Prueba 1
+=======
+<<<<<<< HEAD
 Linea 1
 linea 2
 =======
 Paco Frutos
 >>>>>>> bce22091fa688c67ce5805a2015e218f47f35fb3
+>>>>>>> f06b593e36f7844175d7180bf7256b7e36498a82
