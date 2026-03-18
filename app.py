@@ -1,1 +1,2 @@
-esto genera conflicot
+print("Hola desde main, soy Alvaro")
+
